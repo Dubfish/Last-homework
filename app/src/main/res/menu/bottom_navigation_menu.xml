@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/apple_button"
+        android:enabled="true"
+        android:icon="@drawable/ic_apple"
+        android:title="@string/apple" />
+
+    <item
+        android:id="@+id/banana_button"
+        android:enabled="true"
+        android:icon="@drawable/ic_banana"
+        android:title="@string/banana" />
+
+</menu>

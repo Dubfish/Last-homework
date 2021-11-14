@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Last Homework</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_banana">This is banana!</string>
+    <string name="this_is_apple">This is apple!</string>
+</resources>
